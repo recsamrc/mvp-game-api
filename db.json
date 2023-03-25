@@ -1,0 +1,76 @@
+{
+  "gameCategories": [
+    {
+      "name": "Sports",
+      "url": "sports",
+      "games": [
+        {
+          "name": "Football",
+          "icon": "football",
+          "providers": [
+            {
+              "name": "provider1",
+              "coverImg": ""
+            },
+            {
+              "name": "provider2",
+              "coverImg": ""
+            },
+            {
+              "name": "provider2",
+              "coverImg": ""
+            }
+          ]
+        },
+        {
+          "name": "Volleyball",
+          "icon": "volleyball",
+          "providers": [
+            {
+              "name": "provider1",
+              "coverImg": ""
+            },
+            {
+              "name": "provider2",
+              "coverImg": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Casino",
+      "url": "casino",
+      "games": [
+        {
+          "name": "Poker",
+          "icon": "poker",
+          "providers": [
+            {
+              "name": "provider1",
+              "coverImg": ""
+            },
+            {
+              "name": "provider2",
+              "coverImg": ""
+            }
+          ]
+        },
+        {
+          "name": "Dice",
+          "icon": "dice",
+          "providers": [
+            {
+              "name": "provider1",
+              "coverImg": ""
+            },
+            {
+              "name": "provider2",
+              "coverImg": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

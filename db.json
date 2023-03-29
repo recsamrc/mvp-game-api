@@ -2,42 +2,42 @@
   "menuItems": [
     {
       "label": "ទំព័រដើម",
-      "icon": "ICON"
+      "icon": "ICON",
       "url": "/home"
     },
     {
       "label": "កីឡា",
-      "icon": "ICON"
+      "icon": "ICON",
       "url": "/sports"
     },
     {
       "label": "កាស៊ីណូ",
-      "icon": "ICON"
+      "icon": "ICON",
       "url": "/casino"
     },
     {
       "label": "ជុលមាន់",
-      "icon": "ICON"
+      "icon": "ICON",
       "url": "/cockfight"
     },
     {
       "label": "គីណូ",
-      "icon": "ICON"
+      "icon": "ICON",
       "url": "/keno"
     },
     {
       "label": "ស្លុត",
-      "icon": "ICON"
+      "icon": "ICON",
       "url": "/slots"
     },
     {
       "label": "បាញ់ត្រី",
-      "icon": "ICON"
+      "icon": "ICON",
       "url": "/fishing"
     },
     {
       "label": "ការផ្តល់ជូន",
-      "icon": "ICON"
+      "icon": "ICON",
       "url": "/gift"
     }
   ],

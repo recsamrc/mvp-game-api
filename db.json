@@ -1,4 +1,46 @@
 {
+  "menuItems": [
+    {
+      "label": "ទំព័រដើម",
+      "icon": "ICON"
+      "url": "/home"
+    },
+    {
+      "label": "កីឡា",
+      "icon": "ICON"
+      "url": "/sports"
+    },
+    {
+      "label": "កាស៊ីណូ",
+      "icon": "ICON"
+      "url": "/casino"
+    },
+    {
+      "label": "ជុលមាន់",
+      "icon": "ICON"
+      "url": "/cockfight"
+    },
+    {
+      "label": "គីណូ",
+      "icon": "ICON"
+      "url": "/keno"
+    },
+    {
+      "label": "ស្លុត",
+      "icon": "ICON"
+      "url": "/slots"
+    },
+    {
+      "label": "បាញ់ត្រី",
+      "icon": "ICON"
+      "url": "/fishing"
+    },
+    {
+      "label": "ការផ្តល់ជូន",
+      "icon": "ICON"
+      "url": "/gift"
+    },
+  ],
   "gameCategories": [
     {
       "name": "Sports",

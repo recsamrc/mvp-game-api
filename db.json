@@ -9,6 +9,38 @@
       "label": "កីឡា",
       "icon": "ICON",
       "url": "/sports"
+      "subMenu": [
+        {
+          "label": "កីឡាទាំងអស់",
+          "icon": "ICON",
+          "url": "/sports"
+        },
+        {
+          "label": "កីឡា",
+          "icon": "ICON",
+          "url": "/sports"
+        },
+        {
+          "label": "M-កីឡា",
+          "icon": "ICON",
+          "url": "/sports"
+        },
+        {
+          "label": "IBC-កីឡា",
+          "icon": "ICON",
+          "url": "/sports"
+        },
+        {
+          "label": "SBO-កីឡា",
+          "icon": "ICON",
+          "url": "/sports"
+        },
+        {
+          "label": "TF E-កីឡា",
+          "icon": "ICON",
+          "url": "/sports"
+        },
+      ]
     },
     {
       "label": "កាស៊ីណូ",

@@ -13,7 +13,7 @@
         {
           "label": "កីឡាទាំងអស់",
           "icon": "ICON",
-          "url": "/sports"
+          "url": "/sports-all"
         },
         {
           "label": "កីឡា",
@@ -23,22 +23,22 @@
         {
           "label": "M-កីឡា",
           "icon": "ICON",
-          "url": "/sports"
+          "url": "/m-sports"
         },
         {
           "label": "IBC-កីឡា",
           "icon": "ICON",
-          "url": "/sports"
+          "url": "/ibc-sports"
         },
         {
           "label": "SBO-កីឡា",
           "icon": "ICON",
-          "url": "/sports"
+          "url": "/sbo-sports"
         },
         {
           "label": "TF E-កីឡា",
           "icon": "ICON",
-          "url": "/sports"
+          "url": "/tf-esports"
         },
       ]
     },

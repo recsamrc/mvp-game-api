@@ -1,151 +1,361 @@
 {
+  
   "menuItems": [
     {
       "label": "ទំព័រដើម",
       "icon": "ICON",
-      "url": "/home"
+      "group": "home",
+      "url": "/home",
+      "subMenu": [
+        {
+          "label": "ទំព័រដើម",
+          "icon": "ICON",
+          "group": "home",
+          "url": "/home"
+          
+        }
+      ]
     },
     {
       "label": "កីឡា",
       "icon": "ICON",
-      "url": "/sports"
+      "group": "sports",
+      "url": "/sports-all",
       "subMenu": [
         {
           "label": "កីឡាទាំងអស់",
           "icon": "ICON",
+          "group": "sports",
           "url": "/sports-all"
         },
         {
           "label": "កីឡា",
           "icon": "ICON",
+          "group": "sports",
           "url": "/sports"
         },
         {
           "label": "M-កីឡា",
           "icon": "ICON",
+          "group": "sports",
           "url": "/m-sports"
         },
         {
           "label": "IBC-កីឡា",
           "icon": "ICON",
+          "group": "sports",
           "url": "/ibc-sports"
         },
         {
           "label": "SBO-កីឡា",
           "icon": "ICON",
+          "group": "sports",
           "url": "/sbo-sports"
         },
         {
           "label": "TF E-កីឡា",
           "icon": "ICON",
+          "group": "sports",
           "url": "/tf-esports"
-        },
+        }
       ]
     },
     {
       "label": "កាស៊ីណូ",
       "icon": "ICON",
-      "url": "/casino"
+      "group": "casino",
+      "url": "/casino",
+      "subMenu": [
+        {
+          "label": "កាស៊ីណូ",
+          "icon": "ICON",
+          "group": "casino",
+          "url": "/casino"
+        }
+      ]
     },
     {
       "label": "ជុលមាន់",
       "icon": "ICON",
-      "url": "/cockfight"
+      "group": "cockfight",
+      "url": "/cockfight",
+      "subMenu": [
+        {
+          "label": "ជុលមាន់",
+          "icon": "ICON",
+          "group": "cockfight",
+          "url": "/cockfight"
+        }
+      ]
     },
     {
       "label": "គីណូ",
       "icon": "ICON",
-      "url": "/keno"
+      "group": "keno",
+      "url": "/keno",
+      "subMenu": [
+        {
+          "label": "គីណូ",
+          "icon": "ICON",
+          "group": "keno",
+          "url": "/keno"
+        }
+      ]
     },
     {
       "label": "ស្លុត",
       "icon": "ICON",
-      "url": "/slots"
+      "group": "slots",
+      "url": "/slots",
+      "subMenu": [
+        {
+          "label": "ស្លុត",
+          "icon": "ICON",
+          "group": "slots",
+          "url": "/slots"
+        }
+      ]
     },
     {
       "label": "បាញ់ត្រី",
       "icon": "ICON",
-      "url": "/fishing"
+      "group": "fishing",
+      "url": "/fishing",
+      "subMenu": [
+        {
+          "label": "បាញ់ត្រី",
+          "icon": "ICON",
+          "group": "fishing",
+          "url": "/fishing"
+        }
+      ]
     },
     {
       "label": "ការផ្តល់ជូន",
       "icon": "ICON",
-      "url": "/gift"
+      "group": "gift",
+      "url": "/gift",
+      "subMenu": [
+        {
+          "label": "ការផ្តល់ជូន",
+          "icon": "ICON",
+          "group": "gift",
+          "url": "/gift"
+        }
+      ]
+    }
+  ],
+  "subMenuItems": [
+    {
+      "label": "ទំព័រដើម",
+      "icon": "ICON",
+      "url": "/home"
     }
   ],
   "gameCategories": [
     {
-      "name": "Sports",
-      "url": "sports",
+      "name": "កីឡាទាំងអស់",
+      "url": "sports-all",
+      "group": "sports",
       "games": [
         {
-          "name": "Football",
-          "icon": "football",
-          "providers": [
-            {
-              "name": "provider1",
-              "coverImg": ""
-            },
-            {
-              "name": "provider2",
-              "coverImg": ""
-            },
-            {
-              "name": "provider2",
-              "coverImg": ""
-            }
-          ]
+          "name": "game1",
+          "coverImg": ""
         },
         {
-          "name": "Volleyball",
-          "icon": "volleyball",
-          "providers": [
-            {
-              "name": "provider1",
-              "coverImg": ""
-            },
-            {
-              "name": "provider2",
-              "coverImg": ""
-            }
-          ]
+          "name": "game2",
+          "coverImg": ""
+        },
+        {
+          "name": "game3",
+          "coverImg": ""
+        },
+        {
+          "name": "game4",
+          "coverImg": ""
+        },
+        {
+          "name": "game5",
+          "coverImg": ""
         }
       ]
     },
     {
-      "name": "Casino",
-      "url": "casino",
+      "name": "កីឡា",
+      "url": "sports",
+      "group": "sports",
       "games": [
         {
-          "name": "Poker",
-          "icon": "poker",
-          "providers": [
-            {
-              "name": "provider1",
-              "coverImg": ""
-            },
-            {
-              "name": "provider2",
-              "coverImg": ""
-            }
-          ]
+          "name": "game1",
+          "coverImg": ""
         },
         {
-          "name": "Dice",
-          "icon": "dice",
-          "providers": [
-            {
-              "name": "provider1",
-              "coverImg": ""
-            },
-            {
-              "name": "provider2",
-              "coverImg": ""
-            }
-          ]
+          "name": "game2",
+          "coverImg": ""
+        },
+        {
+          "name": "game3",
+          "coverImg": ""
+        },
+        {
+          "name": "game4",
+          "coverImg": ""
+        },
+        {
+          "name": "game5",
+          "coverImg": ""
+        },
+        {
+          "name": "game6",
+          "coverImg": ""
         }
       ]
+    },
+    {
+      "name": "M-កីឡា",
+      "url": "m-sports",
+      "group": "sports",
+      "games": [
+        {
+          "name": "game1",
+          "coverImg": ""
+        },
+        {
+          "name": "game2",
+          "coverImg": ""
+        },
+        {
+          "name": "game3",
+          "coverImg": ""
+        },
+        {
+          "name": "game4",
+          "coverImg": ""
+        },
+        {
+          "name": "game5",
+          "coverImg": ""
+        },
+        {
+          "name": "game6",
+          "coverImg": ""
+        }
+      ]
+    },
+    {
+      "name": "IBC-កីឡា",
+      "url": "ibc-sports",
+      "group": "sports",
+      "games": [
+        {
+          "name": "game1",
+          "coverImg": ""
+        },
+        {
+          "name": "game2",
+          "coverImg": ""
+        },
+        {
+          "name": "game3",
+          "coverImg": ""
+        },
+        {
+          "name": "game4",
+          "coverImg": ""
+        },
+        {
+          "name": "game5",
+          "coverImg": ""
+        },
+        {
+          "name": "game6",
+          "coverImg": ""
+        }
+      ]
+    },
+    {
+      "name": "SBO-កីឡា",
+      "url": "sbo-sports",
+      "group": "sports",
+      "games": [
+        {
+          "name": "game1",
+          "coverImg": ""
+        },
+        {
+          "name": "game2",
+          "coverImg": ""
+        },
+        {
+          "name": "game3",
+          "coverImg": ""
+        },
+        {
+          "name": "game4",
+          "coverImg": ""
+        },
+        {
+          "name": "game5",
+          "coverImg": ""
+        },
+        {
+          "name": "game6",
+          "coverImg": ""
+        }
+      ]
+    },
+    {
+      "name": "TF E-កីឡា",
+      "url": "tf-esports",
+      "group": "sports",
+      "games": [
+        {
+          "name": "game1",
+          "coverImg": ""
+        },
+        {
+          "name": "game2",
+          "coverImg": ""
+        },
+        {
+          "name": "game3",
+          "coverImg": ""
+        },
+        {
+          "name": "game4",
+          "coverImg": ""
+        }
+      ]
+    },
+    {
+      "name": "កាស៊ីណូ",
+      "url": "casino",
+      "group": "casino",
+      "games": []
+    },
+    {
+      "name": "ជុលមាន់",
+      "url": "cockfight",
+      "group": "cockfight",
+      "games": []
+    },
+    {
+      "name": "គីណូ",
+      "url": "keno",
+      "group": "keno",
+      "games": []
+    },
+    {
+      "name": "ស្លុត",
+      "url": "slots",
+      "group": "slots",
+      "games": []
+    },
+    {
+      "name": "បាញ់ត្រី",
+      "url": "fishing",
+      "group": "fishing",
+      "games": []
     }
   ]
 }
-
